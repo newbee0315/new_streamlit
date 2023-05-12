@@ -1,5 +1,5 @@
 import streamlit as st
-import matplotlib.pyplot as plt
+
 # Initialize connection.
 conn = st.experimental_connection('mysql', type='sql')
 
